@@ -26,7 +26,7 @@ Download the file **cassowary.flatpack**. Then open it and install with Software
 
 ## Screenshots
 <img width="1920" height="1080" alt="Bildschirmfoto vom 2026-10-26 20-04-03" src="https://github.com/user-attachments/assets/c28624c0-1a3f-4df3-9335-26fcd28022d9" />
-<img width=<img width="1920" height="1080" alt="Bildschirmfoto vom 2026-10-26 20-04-14" src="https://github.com/user-attachments/assets/3de53bed-bed0-417f-80f9-87db0ea06ee3" />
+<img width="1920" height="1080" alt="Bildschirmfoto vom 2026-10-26 20-04-14" src="https://github.com/user-attachments/assets/3de53bed-bed0-417f-80f9-87db0ea06ee3" />
 <img width="1920" height="1080" alt="Bildschirmfoto vom 2026-10-26 20-04-11" src="https://github.com/user-attachments/assets/8314c651-4b29-4d17-bac4-dd9670760b02" />
-"1920" height="1080" alt="Bildschirmfoto vom 2026-10-26 20-03-57" src="https://github.com/user-attachments/assets/8a5b2cc7-b24d-4cad-a9dc-40bb6389a69e" />
+<img width="1920" height="1080" alt="Bildschirmfoto vom 2026-10-26 20-03-57" src="https://github.com/user-attachments/assets/8a5b2cc7-b24d-4cad-a9dc-40bb6389a69e" />
 

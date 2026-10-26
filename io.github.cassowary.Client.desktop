@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Cassowary
+Comment=Ein einfacher und moderner WebDAV & CalDAV Client
+Comment[de]=Ein einfacher und moderner Webдий & CalDAV Client
+Exec=cassowary_client
+Icon=io.github.cassowary.Client
+Type=Application
+Categories=Network;FileTransfer;Utility;
+StartupNotify=true
+Terminal=false

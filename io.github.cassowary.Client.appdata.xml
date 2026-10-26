@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.cassowary.Client</id>
+  <name>Cassowary</name>
+  <summary>Ein einfacher WebDAV-Client</summary>
+  <summary xml:lang="de">Ein einfacher WebDAV-Client</summary>
+  <description>
+    <h1> Cassowary Storage</h1>
+
+<b>Cassowary Storage<b< ist ein schlanker WebDAV-Client mit einer modernen GTK4 / libadwaita Benutzeroberfläche für Linux.
+
+<h2>Highlights</h2> <p>
+
+<b>Automatisierungen:</b> Erstelle flexible Regeln, um Änderungen in von dir gewählten Ordnern automatisch zu synchronisieren.
+<b>Cloud-zu-Cloud Sync:</b> Synchronisiere Ordner und Dateien direkt zwischen verschiedenen Cloud-Diensten.
+<b>Native Integration:</b> Passt sich nahtlos an dein GNOME-Desktop-Design an. </p>
+  </description>
+  <launchable type="desktop-id">io.github.cassowary.Client.desktop</launchable>
+  <url type="homepage">https://github.com/cassowary</url>
+  <provides>
+    <binary>cassowary_storage</binary>
+  </provides>
+  <releases>
+    <release version="0.8" date="2025-10-25"/>
+  </releases>
+  <developer_name>marten</developer_name>
+  <content_rating type="oars-1.1"/>
+</component>

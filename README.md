@@ -21,3 +21,5 @@ Fedora:<br> ``` sudo dnf install python3-gobject gtk4 libadwaita ``` <br>
 Ubuntu / Debian: <br> ``` sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-4.0 gir1.2-adw-1 ```
 ### Use Flatpack
 Download the file **cassowary.flatpack**. Then open it and install with Software like Gnome Software or Bazaar.
+## Roadmap
+- sicheres Speichern von Passwörtern 

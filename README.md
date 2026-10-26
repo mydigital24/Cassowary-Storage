@@ -3,6 +3,8 @@
 **icon.png and the icon generally All Rights Reserved** <br>
 Cassowary Storage is a lightweight, Python-based WebDAV client for Linux featuring a native GNOME libadwaita interface. You can configure automated backups and sync files across multiple WebDAV Servers.
 
+<img width="220" height="220" alt="icon" src="https://github.com/user-attachments/assets/d9d08792-a894-4787-835b-dc9558977cdb" />
+
 
 ## How to install
 **Newest Release** https://github.com/mydigital24/Cassowary-Storage/releases/tag/Release

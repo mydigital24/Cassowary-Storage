@@ -4,7 +4,7 @@
 Cassowary Storage ist ein schlanker WebDAV-Client für Linux basierend auf Python.
 
 ## How to install
-**Newest Realease** https://github.com/mydigital24/Cassowary-Storage/releases/tag/Realease
+**Newest Release** https://github.com/mydigital24/Cassowary-Storage/releases/tag/Release
 ### Use the Python file
 Download the Python file.
 #### Dependencies

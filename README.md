@@ -13,7 +13,7 @@ Download the Python file.
 - GTK 4
 - libadwaita
   
-**Installation:**
+**Installation:** <br>
 Fedora: sudo dnf install python3-gobject gtk4 libadwaita
 Ubuntu / Debian: sudo apt install python3-gi python3-gi-cairo gir1.2-gtk-4.0 gir1.2-adw-1
 ### Use Flatpack
